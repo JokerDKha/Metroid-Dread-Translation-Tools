@@ -1,5 +1,5 @@
 # Metroid-Dread-Translation-Tools
-Metroid Dread localization tools
+Metroid Dread Translation Tools
 
 Thank's LITTOMA help with this tools.
 
