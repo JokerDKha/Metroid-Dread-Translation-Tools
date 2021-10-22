@@ -8,7 +8,7 @@ Requirements:
 Python 3+
 
 .NET Framework 4.6
-
+```bash
 Step 1: Run Setup.bat
 
 Step 2: Copy your dump us_english.txt to Folder "put-text-here" 
@@ -25,4 +25,4 @@ Step 6: You will have Folder "Patch-Translation" copy 010093801237C000 to Mod fo
 atmosphere/contents/
 - SXOS:
 sxos/titles/
-
+```
