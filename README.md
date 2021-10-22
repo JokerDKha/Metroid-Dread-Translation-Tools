@@ -20,4 +20,4 @@ Step 6: You will have Folder "Patch-Translation" copy 010093801237C000 mod folde
 atmosphere/contents/
 - SXOS:
 sxos/titles/
-..........................................................................................
+
