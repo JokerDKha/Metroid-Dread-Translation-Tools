@@ -1,9 +1,14 @@
 # Metroid-Dread-Translation-Tools
 Metroid Dread localization tools
+
 Thank's LITTOMA help with this tools.
+
 Requirements:
+
 Python 3+
+
 .NET Framework 4.6
+
 Step 1: Run Setup.bat
 
 Step 2: Copy your dump us_english.txt to Folder "put-text-here" 
