@@ -9,7 +9,7 @@ import greedypacker
 from freetype import FT_LOAD_FLAGS, Face
 from PIL import Image
 
-
+#icon map
 ICONS = {
     0x1800: (-1, 30, 34),
     0x1801: (-1, 30, 34),
